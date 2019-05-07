@@ -1,12 +1,14 @@
-baseURL = "https://primeparadigm.dev"
+baseURL = "https://yxaj.dev"
 languageCode = "en-us"
-title = "Marisa Smith Aldridge"
+title = "Yxaj"
+author = "Marisa Aldridge (Yxaj)"
+googleAnalytics = "UA-139871389-1"
 theme = "piercer"
 enableRobotsTXT = true
 paginate = 3
 
 [params]
-    description = "This is the description."
+    description = "Homepage for Yxaj's website."
     favicon = "favicon.ico"
     logo = ""
 	
@@ -55,4 +57,4 @@ paginate = 3
     message = """This website is made with <a href="https://gohugo.io/" alt="Hugo">Hugo</a>, the <a href="https://fontawesome.com/" alt="Font Awesome">Font Awesome</a> icons, and <a href="https://github.com/danielkvist/hugo-piercer-theme" alt="Hugo Piercer theme">Piercer</a>."""
 
 [params.copy]
-    message = "© 2019 - Marisa Smith"
+    message = "© 2019 - Marisa Aldridge"

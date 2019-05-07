@@ -7,5 +7,5 @@ menu: main
 weight: 1
 ---
 
-# Marisa Smith Aldridge
+# Marisa Aldridge (Yxaj)
 Always learning, always creating, always improving.
