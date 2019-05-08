@@ -27,7 +27,7 @@ paginate = 3
     yellow = "#f1fa8c"
 
 [params.fontsizes]
-    base = "1em"
+    base = "1.1em"
     p = "1.25em"
     h4 = "1.563em"
     h3 = "1.953em"
@@ -35,7 +35,14 @@ paginate = 3
     h1 = "3.052em"
 
 [params.googlefonts]
-    font = ""
+    font = "Hind Madurai"
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
 
 [params.serviceWorker]
     enable = true
