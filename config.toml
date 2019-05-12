@@ -56,9 +56,9 @@ paginate = 3
     link = "#"
 	
 [params.social]
-    github = "#"
-    linkedin = "#"
-	goodreads = "#"
+    github = "https://github.com/pparadigm"
+    linkedin = "https://www.linkedin.com/in/yxaj"
+	goodreads = "https://www.goodreads.com/Yxaj"
 	
 [params.agreement]
     message = """This website is made with <a href="https://gohugo.io/" alt="Hugo">Hugo</a>, the <a href="https://fontawesome.com/" alt="Font Awesome">Font Awesome</a> icons, and <a href="https://github.com/danielkvist/hugo-piercer-theme" alt="Hugo Piercer theme">Piercer</a>."""
