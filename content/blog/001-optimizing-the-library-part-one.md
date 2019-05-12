@@ -1,8 +1,8 @@
 ---
 title: "Optimizing at the Library: Part One"
 description: "Considerations for optimizing a library sweep."
-date: 
-publishDate: 
+date: "2019-05-11T21:45:00-07:00"
+publishDate: "2019-05-11T21:45:00-07:00"
 author: ""
 draft: false
 images: []
